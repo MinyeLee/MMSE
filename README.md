@@ -22,7 +22,7 @@
 - XGBoost
 
 [Stacking Model]
--XGBoost
+- XGBoost
 
 개별적인 모델의 Accuracy 는 다음과 같다.
 
